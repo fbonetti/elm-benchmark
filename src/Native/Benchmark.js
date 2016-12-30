@@ -19,7 +19,7 @@ function measure(tag, fn)
 }
 
 return {
-  measure: F2(log)
+  measure: F2(measure)
 };
 
 }();
