@@ -1,4 +1,4 @@
-var _fbonetti$benchmark$Native_Benchmark = function() {
+var _fbonetti$elm_benchmark$Native_Benchmark = function() {
 
 function measure(tag, fn)
 {
